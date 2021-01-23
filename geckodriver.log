@@ -1,0 +1,231 @@
+1611308544959	geckodriver	INFO	Listening on 127.0.0.1:54712
+1611308548004	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileOysLY8"
+1611309027688	geckodriver	INFO	Listening on 127.0.0.1:55983
+1611309030680	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileUti9fQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611309039964	Marionette	INFO	Listening on port 55999
+1611309040098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611309228944	Marionette	INFO	Stopped listening on port 55999
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611309267239	geckodriver	INFO	Listening on 127.0.0.1:56933
+1611309270258	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileQ8skGT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 2684, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611309278054	Marionette	INFO	Listening on port 56955
+1611309278124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611309599540	Marionette	INFO	Stopped listening on port 56955
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\rust_mozprofilelTyCwS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611309576561	Marionette	INFO	Listening on port 58104
+1611309576955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+[Parent 4584, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611309675345	Marionette	INFO	Stopped listening on port 58104
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611309717007	geckodriver	INFO	Listening on 127.0.0.1:58700
+1611309719923	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileuPPrFs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611309727458	Marionette	INFO	Listening on port 58721
+1611309727605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611310023360	Marionette	INFO	Stopped listening on port 58721
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611312373605	geckodriver	INFO	Listening on 127.0.0.1:52333
+1611312376561	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileoopUVw"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1611312413290	Marionette	INFO	Listening on port 52353
+1611312418077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+[Parent 3304, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611313208703	Marionette	INFO	Stopped listening on port 52353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611313196484	Marionette	INFO	Listening on port 55622
+1611313196965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611313733108	Marionette	INFO	Stopped listening on port 55622
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611313744544	geckodriver	INFO	Listening on 127.0.0.1:57972
+1611313747460	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileF2noF1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611313754789	Marionette	INFO	Listening on port 57994
+1611313755123	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611314332221	Marionette	INFO	Stopped listening on port 57994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofilewL2dmd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611314327518	Marionette	INFO	Listening on port 60192
+1611314327749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611314936743	geckodriver	INFO	Listening on 127.0.0.1:62968
+1611314939753	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofilenFzZUO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611314946837	Marionette	INFO	Listening on port 62995
+1611314946948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611315115956	Marionette	INFO	Stopped listening on port 62995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileHyjygL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611315122592	geckodriver	INFO	Listening on 127.0.0.1:63931
+1611315125596	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofilelFtran"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611315132286	Marionette	INFO	Listening on port 63955
+1611315132782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611315636171	Marionette	INFO	Stopped listening on port 63955
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611335182301	geckodriver	INFO	Listening on 127.0.0.1:55390
+1611335185098	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileKzOVUk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611335213645	Marionette	INFO	Listening on port 55407
+1611335213962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611335437428	Marionette	INFO	Stopped listening on port 55407
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611335645931	geckodriver	INFO	Listening on 127.0.0.1:56221
+1611335648914	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofilewxv7kS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611335656626	Marionette	INFO	Listening on port 56236
+1611335656734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611339256580	Marionette	INFO	Stopped listening on port 56236
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611340010198	geckodriver	INFO	Listening on 127.0.0.1:62133
+1611340013233	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofile4WT5mg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611340020781	Marionette	INFO	Listening on port 62147
+1611340020893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611340434445	Marionette	INFO	Stopped listening on port 62147
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611341293389	geckodriver	INFO	Listening on 127.0.0.1:63741
+1611341296402	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileGX6Usk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611341303704	Marionette	INFO	Listening on port 63755
+1611341304096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611343450054	geckodriver	INFO	Listening on 127.0.0.1:51637
+1611343453049	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileUWuAET"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611343460915	Marionette	INFO	Listening on port 51653
+1611343461313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7440, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1611344575373	Marionette	INFO	Stopped listening on port 51console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611344577900	Marionette	INFO	Listening on port 54186
+1611344578344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611345998619	geckodriver	INFO	Listening on 127.0.0.1:57288
+1611346001608	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Deep-PC\\AppData\\Local\\Temp\\rust_mozprofileSA6s2J"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611346009373	Marionette	INFO	Listening on port 57305
+1611346009881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/app.eb2b27c260683f39a1e0.js, line 1: unreachable code after return statement
+1611346185719	Marionette	INFO	Stopped listening on port 57305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
